@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.stream.test.CreateStreamBuilderTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-06-03T16:03:34" hostname="DESKTOP-QA2NH3N" time="0.024">
+  <properties/>
+  <testcase name="addThreeStrings" classname="com.ip.stream.test.CreateStreamBuilderTest" time="0.0"/>
+  <testcase name="addTwoElements" classname="com.ip.stream.test.CreateStreamBuilderTest" time="0.004"/>
+  <testcase name="addWithEmpty" classname="com.ip.stream.test.CreateStreamBuilderTest" time="0.004"/>
+  <testcase name="addWithNull" classname="com.ip.stream.test.CreateStreamBuilderTest" time="0.0"/>
+  <testcase name="testElementsMoreThanThree" classname="com.ip.stream.test.CreateStreamBuilderTest" time="0.004"/>
+  <testcase name="testWithOneSpace" classname="com.ip.stream.test.CreateStreamBuilderTest" time="0.004"/>
+  <testcase name="testWithTwoSpace" classname="com.ip.stream.test.CreateStreamBuilderTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.stream.test.PersonCalculationTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-06-03T16:03:34" hostname="DESKTOP-QA2NH3N" time="0.042">
+  <properties/>
+  <testcase name="testAnyPersonByAge" classname="com.ip.stream.test.PersonCalculationTest" time="0.012"/>
+  <testcase name="testFirstPersonByAge" classname="com.ip.stream.test.PersonCalculationTest" time="0.004"/>
+  <testcase name="testFirstPersonNotAvableAge" classname="com.ip.stream.test.PersonCalculationTest" time="0.0"/>
+  <testcase name="testPeopleAge" classname="com.ip.stream.test.PersonCalculationTest" time="0.01"/>
+  <testcase name="testPeopleDetailsByAge" classname="com.ip.stream.test.PersonCalculationTest" time="0.0"/>
+  <testcase name="testPersonByAge" classname="com.ip.stream.test.PersonCalculationTest" time="0.0"/>
+  <testcase name="testPersonByAllAge" classname="com.ip.stream.test.PersonCalculationTest" time="0.004"/>
+  <testcase name="testPersonByNoAge" classname="com.ip.stream.test.PersonCalculationTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

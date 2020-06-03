@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.stream.test.FirstLetterWordsTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-06-03T16:03:34" hostname="DESKTOP-QA2NH3N" time="0.012">
+  <properties/>
+  <testcase name="testFirstLetter" classname="com.ip.stream.test.FirstLetterWordsTest" time="0.004"/>
+  <testcase name="testFirstLetterWithEmpty" classname="com.ip.stream.test.FirstLetterWordsTest" time="0.0"/>
+  <testcase name="testFirstLetterWithNull" classname="com.ip.stream.test.FirstLetterWordsTest" time="0.0"/>
+  <testcase name="testFirstLetterWithOneWord" classname="com.ip.stream.test.FirstLetterWordsTest" time="0.004"/>
+  <testcase name="testFirstLetterWithOneWordUpperCase" classname="com.ip.stream.test.FirstLetterWordsTest" time="0.0"/>
+  <testcase name="testFirstLetterWithTwoWordsLowerCase" classname="com.ip.stream.test.FirstLetterWordsTest" time="0.0"/>
+  <testcase name="testFirstLetterWithTwoWordsLowerUpperCase" classname="com.ip.stream.test.FirstLetterWordsTest" time="0.0"/>
+  <testcase name="testFirstLetterWithTwoWordsUpperCase" classname="com.ip.stream.test.FirstLetterWordsTest" time="0.0"/>
+  <testcase name="testFirstLetterWithTwoWordsUpperLowerCase" classname="com.ip.stream.test.FirstLetterWordsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

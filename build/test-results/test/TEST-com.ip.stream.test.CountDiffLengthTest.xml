@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.stream.test.CountDiffLengthTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-06-03T16:03:34" hostname="DESKTOP-QA2NH3N" time="0.028">
+  <properties/>
+  <testcase name="testDiffLength" classname="com.ip.stream.test.CountDiffLengthTest" time="0.016"/>
+  <testcase name="testDiffLengthWithTwoWords" classname="com.ip.stream.test.CountDiffLengthTest" time="0.004"/>
+  <testcase name="testLengthNull" classname="com.ip.stream.test.CountDiffLengthTest" time="0.004"/>
+  <testcase name="testLengthWithEmpty" classname="com.ip.stream.test.CountDiffLengthTest" time="0.0"/>
+  <testcase name="testLengthWithOneWord" classname="com.ip.stream.test.CountDiffLengthTest" time="0.0"/>
+  <testcase name="testSameLengthWithTwoWords" classname="com.ip.stream.test.CountDiffLengthTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

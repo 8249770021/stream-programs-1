@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.stream.test.SelectLongestWordsTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-06-03T16:03:34" hostname="DESKTOP-QA2NH3N" time="0.024">
+  <properties/>
+  <testcase name="testLongestWords" classname="com.ip.stream.test.SelectLongestWordsTest" time="0.02"/>
+  <testcase name="testLongestWordsWithEmpty" classname="com.ip.stream.test.SelectLongestWordsTest" time="0.0"/>
+  <testcase name="testLongestWordsWithNull" classname="com.ip.stream.test.SelectLongestWordsTest" time="0.0"/>
+  <testcase name="testLongestWordsWithOneWord" classname="com.ip.stream.test.SelectLongestWordsTest" time="0.004"/>
+  <testcase name="testLongestWordsWithOneWordUpperCase" classname="com.ip.stream.test.SelectLongestWordsTest" time="0.0"/>
+  <testcase name="testLongestWordsWithTwoWordsLowerCase" classname="com.ip.stream.test.SelectLongestWordsTest" time="0.0"/>
+  <testcase name="testLongestWordsWithTwoWordsLowerUpperCase" classname="com.ip.stream.test.SelectLongestWordsTest" time="0.0"/>
+  <testcase name="testLongestWordsWithTwoWordsUpperCase" classname="com.ip.stream.test.SelectLongestWordsTest" time="0.0"/>
+  <testcase name="testLongestWordsWithTwoWordsUpperLowerCase" classname="com.ip.stream.test.SelectLongestWordsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

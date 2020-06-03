@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.stream.test.CreateIntStreamTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-06-03T16:03:34" hostname="DESKTOP-QA2NH3N" time="0.016">
+  <properties/>
+  <testcase name="testIntStream" classname="com.ip.stream.test.CreateIntStreamTest" time="0.008"/>
+  <testcase name="testStreamStartAndEndZero" classname="com.ip.stream.test.CreateIntStreamTest" time="0.0"/>
+  <testcase name="testStreamStartEndNegative" classname="com.ip.stream.test.CreateIntStreamTest" time="0.0"/>
+  <testcase name="testStreamStartNegativeEndPositive" classname="com.ip.stream.test.CreateIntStreamTest" time="0.004"/>
+  <testcase name="testStreamStartPositiveEndNegative" classname="com.ip.stream.test.CreateIntStreamTest" time="0.0"/>
+  <testcase name="testStreamStartSixEndZero" classname="com.ip.stream.test.CreateIntStreamTest" time="0.0"/>
+  <testcase name="testStreamStartZeroEndSix" classname="com.ip.stream.test.CreateIntStreamTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
